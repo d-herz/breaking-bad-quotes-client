@@ -20,6 +20,8 @@ function getFetch(){
   document.querySelector('#SG').classList.add('hidden')
   document.querySelector('#SW').classList.add('hidden')
   document.querySelector('#B').classList.add('hidden')
+  document.querySelector('#HECT').classList.add('hidden')
+  document.querySelector('#WJ').classList.add('hidden')
 
   if( document.querySelector('section').classList.contains('hidden')){
     document.querySelector('section').classList.toggle('hidden')
@@ -62,6 +64,13 @@ function getFetch(){
 
           }else if(data[num].author ==='Badger'){
             document.getElementById('B').classList.remove('hidden')
+
+          }else if(data[num].author ==='Hector Salamanca'){
+            document.getElementById('HECT').classList.remove('hidden')
+
+          }else if(data[num].author ==='Walter Jr.'){
+            document.getElementById('WJ').classList.remove('hidden')
+
           }else{
           // document.querySelector('#WW').classList.add('hidden')
           }

@@ -28,7 +28,8 @@ I've recently added:
 <li> Mobile and Desktop Responsivity </li>
 <li> Images for quoted characters </li>
 <li> Additional quotes to my MongoDB database</li>
-<li> A back-end server and CRUD based 'Database' builder site for adding quotes to my MongoDb</li>
+<li> A back-end server API, hosted on Heroku</li> 
+<li>A CRUD based 'Database' builder site for adding quotes to my MongoDB </li>
 <!----- <li> </li> ---->
 </ul>
 </p>

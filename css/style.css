@@ -35,7 +35,6 @@ header h1{
 
 header>img {
   max-height: 3em;
-  
 }
 
 /* MAIN */
@@ -117,7 +116,6 @@ img {
     margin: 0 0 0.5rem 0;
   }
 
-
   header>img {
     max-height: 2em;
     border-radius: none;
@@ -138,8 +136,6 @@ img {
     margin: 5% 5%;
   }
 
-
-
   .image-container img {
     max-width: 100%;
     max-height: fit-content;
@@ -147,8 +143,6 @@ img {
     margin: 5% auto;
   }
 
- 
-  
 }
 
 @media (max-width:390px) {
@@ -166,7 +160,6 @@ img {
     font-size: 1.25rem;
     margin: 6% 10%;
   }
-
 
 }
 

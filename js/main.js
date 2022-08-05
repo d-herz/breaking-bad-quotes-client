@@ -39,15 +39,12 @@ function getFetch(){
         document.querySelector('h3').innerText = '-' + data[num].author
 
           if(data[num].author ==='Walter White'){
-
             document.getElementById('WW').classList.remove('hidden')
 
           }else if(data[num].author ==='Jesse Pinkman'){
-
             document.getElementById('JP').classList.remove('hidden')
 
           }else if(data[num].author ==='Gustavo Fring'){
-
             document.getElementById('GF').classList.remove('hidden')
             
           }else if(data[num].author ==='Hank Schrader'){

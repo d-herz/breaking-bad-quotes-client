@@ -102,7 +102,9 @@ img {
 }
 
 /* MEDIA QUERIES */
-/* maybe add a desktop size meadia query to fix quote conatiner from stretching out */
+/* maybe add a desktop size media query to fix quote conatiner from stretching out */
+/* Wait, are these media queries set up right? sholudnt be; @media screen and (max-width..) ? */
+
 
 @media (max-width:480px) {
   body{
@@ -121,7 +123,6 @@ img {
   header>img {
     max-height: 2em;
     border-radius: none;
-    
   }
 
   main>button {

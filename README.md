@@ -1,7 +1,7 @@
 <h1 align="center"> Breaking Bad Quotes! </h1>
 
 <h3 align="center">Client Side of 'Breaking Bad Quotes!' API</h3>
-<h3 align="center"> <a href="https://quotes-of-breakingbad.netlify.app/">Visit the live site!</a></h3>
+<h3 align="center"> <a href="https://quotes-of-breakingbad.netlify.app/">Visit the live site</a></h3>
 
 <h3 align="left">About this project:</h3>
 <p align="left">
@@ -39,7 +39,7 @@ I've recently added:
 
 
 <h3 align="left">Thanks for stopping by!</h3>
-<h4> Let's connect on Twitter and LinkedIn! </h4>
+<h4> Connect with me on Twitter and LinkedIn:</h4>
 <p align="left">
 <a href="https://twitter.com/danherz636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danherz636" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-hyres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-hyres/" height="30" width="40" /></a>

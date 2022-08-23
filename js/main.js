@@ -27,9 +27,6 @@ function getFetch(){
     document.querySelector('section').classList.toggle('hidden')
     }
 
-
-  
-
   fetch(url)
       .then(res => res.json()) // parse response as JSON
       .then(data => {

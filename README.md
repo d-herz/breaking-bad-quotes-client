@@ -21,6 +21,13 @@ This is the client-side page for my Breaking Bad Quotes API! When you click the 
 </ul>
 </p>
 
+
+
+<p align="center">
+  <img src="https://github.com/d-herz/breaking-bad-quotes-client/blob/main/bb-readme.gif" alt="animated" />
+</p>
+
+
 <h3 align="left">Recent Updates:</h3>
 <p align="left">
 I've recently added:

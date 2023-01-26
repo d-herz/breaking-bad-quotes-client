@@ -6,7 +6,7 @@
 
 <h3 align="left">About this project:</h3>
 <p align="left">
-This is the client-side page for my Breaking Bad Quotes API! When you click the 'Get Random Quote' button, a random quote from the hit AMC show "Breaking Bad" will be pulled from my database and displayed for your amusement!
+This is the client-side page for my "Breaking Bad Quotes!" API. When you click the 'Get Random Quote' button, a random quote from "Breaking Bad" is pulled from the "Quotes" database and displayed along with a picture of the quoted character. 
 </p>
 
 <p align="left">
@@ -16,11 +16,10 @@ NOTE: The page is currently down until a I migrate the server API to a suitable 
 <h3 align="left">Quick facts about this project:</h3>
 <p align="left">
 <ul>
-<li> Front-end coded with HTML5, CSS3, & JavaScript </li>
-<li> This page is Hosted on <a href="https://app.netlify.com/drop"> Netlify </a> </li>
-<li> Server-side API code written with Node.js/Express</li> 
+<li>Frontend built with pure HTML5, CSS3, & Vanilla JS </li>
+<li>Backend Server API built with Node.js & Express.js</li> 
 <!-- <li> The API is hosted on Heroku </li> -->
-<li> Accesses a MongoDB with 80+ quotes from the show! </li>
+<li>Accesses a "Quotes" MongoDB database </li>
 <!----- <li> </li> ---->
 </ul>
 </p>
@@ -38,9 +37,9 @@ I've recently added:
 <ul>
 <li> Mobile and Desktop Responsivity </li>
 <li> Images for quoted characters </li>
-<li> Additional quotes to my MongoDB database</li>
-<li> REST API backend, currently unhosted</li> 
-<li>A separate 'database-builder' site for adding quotes to the MongoDB </li>
+<li> More quotes to the MongoDB "Quotes" database</li>
+<li> RESTful API backend connected to MongoDB</li> 
+<li>A separate 'database-builder' page </li>
 <!----- <li> </li> ---->
 </ul>
 </p>

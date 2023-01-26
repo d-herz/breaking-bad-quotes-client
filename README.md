@@ -1,11 +1,16 @@
 <h1 align="center"> Breaking Bad Quotes! </h1>
 
 <h3 align="center">Client Side of 'Breaking Bad Quotes!' API</h3>
-<h3 align="center"> <a href="https://quotes-of-breakingbad.netlify.app/">Visit the live site</a></h3>
+
+<!-- <h3 align="center"> <a href="https://quotes-of-breakingbad.netlify.app/">Visit the live site</a></h3> -->
 
 <h3 align="left">About this project:</h3>
 <p align="left">
 This is the client-side page for my Breaking Bad Quotes API! When you click the 'Get Random Quote' button, a random quote from the hit AMC show "Breaking Bad" will be pulled from my database and displayed for your amusement!
+</p>
+
+<p align="left">
+NOTE: The page is currently down until a I migrate the server API to a suitable Heroku replacement :)
 </p>
 
 <h3 align="left">Quick facts about this project:</h3>
@@ -14,7 +19,7 @@ This is the client-side page for my Breaking Bad Quotes API! When you click the 
 <li> Front-end coded with HTML5, CSS3, & JavaScript </li>
 <li> This page is Hosted on <a href="https://app.netlify.com/drop"> Netlify </a> </li>
 <li> Server-side API code written with Node.js/Express</li> 
-<li> The API is hosted on Heroku </li>
+<!-- <li> The API is hosted on Heroku </li> -->
 <li> Accesses a MongoDB with 80+ quotes from the show! </li>
 <!----- <li> </li> ---->
 </ul>
@@ -34,8 +39,8 @@ I've recently added:
 <li> Mobile and Desktop Responsivity </li>
 <li> Images for quoted characters </li>
 <li> Additional quotes to my MongoDB database</li>
-<li> A back-end server API, hosted on Heroku</li> 
-<li>A CRUD based 'Database-builder' site for adding quotes to my MongoDB </li>
+<li> REST API backend, currently unhosted</li> 
+<li>A separate 'database-builder' site for adding quotes to the MongoDB </li>
 <!----- <li> </li> ---->
 </ul>
 </p>
@@ -48,7 +53,7 @@ I've recently added:
 <h4> Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/danherz636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danherz636" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/daniel-hyres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-hyres/" height="30" width="40" /></a><a href="https://www.twitch.tv/herz636/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="danherz636" height="30" width="40" />
+<a href="https://www.linkedin.com/in/d-herz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-hyres/" height="30" width="40" /></a><a href="https://www.twitch.tv/herz636/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="danherz636" height="30" width="40" />
 </p>
 
 

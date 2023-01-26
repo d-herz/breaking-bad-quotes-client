@@ -1,5 +1,3 @@
-//https://github.com/shevabam/breaking-bad-quotes
-
 document.querySelector('section').classList.add('hidden')
 
 document.querySelector('button').addEventListener('click', getFetch)
@@ -8,7 +6,6 @@ document.querySelector('button').addEventListener('click', getFetch)
 
 function getFetch(){
   // const num = document.querySelector('input').value
-  // const url = `https://breaking-bad-quotes.herokuapp.com/v1/quotes` //og heroku from github (not mine)
 
   const url = `https://breaking-bad-database-builder.herokuapp.com/api` //my heroku :)
 
@@ -28,9 +25,10 @@ function getFetch(){
     }
 
   fetch(url)
-      .then(res => res.json()) // parse response as JSON
+      .then(res => res.json()) 
       .then(data => {
-        // console.log(data) dont need to see this everytime
+        // console.log(data) 
+        
         let num = Math.floor(Math.random() *data.length) //added this for using my heroku/mongoDB
         document.querySelector('h2').innerText = '"'+data[num].quote+'"'
         document.querySelector('h3').innerText = '-' + data[num].author

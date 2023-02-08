@@ -35,9 +35,9 @@ NOTE: The page is currently down until a I migrate the server API to a suitable 
 <p align="left">
 I've recently added:
 <ul>
-<li> Mobile and Desktop Responsivity </li>
-<li> Images for quoted characters </li>
-<li> More quotes to the MongoDB "Quotes" database</li>
+<li> Improved Responsivity </li>
+<li> Character Images </li>
+<li> Additional Quotes to the database</li>
 <li> RESTful API backend connected to MongoDB</li> 
 <li>A separate 'database-builder' page </li>
 <!----- <li> </li> ---->
@@ -52,7 +52,7 @@ I've recently added:
 <h4> Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/danherz636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danherz636" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/d-herz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-hyres/" height="30" width="40" /></a><a href="https://www.twitch.tv/herz636/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="danherz636" height="30" width="40" />
+<a href="https://www.linkedin.com/in/d-herz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-hyres/" height="30" width="40" /></a><a href="https://www.twitch.tv/devlimiter/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="danherz636" height="30" width="40" />
 </p>
 
 

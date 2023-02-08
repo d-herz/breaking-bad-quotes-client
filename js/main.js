@@ -7,7 +7,9 @@ document.querySelector('button').addEventListener('click', getFetch)
 function getFetch(){
   // const num = document.querySelector('input').value
 
-  const url = `https://breaking-bad-database-builder.herokuapp.com/api` //my heroku :)
+  // const url = `https://breaking-bad-database-builder.herokuapp.com/api` //dead heroku link
+  const url = `http://localhost:3004/api` //Local Development Server :)
+  
 
   document.querySelector('#WW').classList.add('hidden')
   document.querySelector('#JP').classList.add('hidden')

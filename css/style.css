@@ -102,10 +102,6 @@ img {
 }
 
 /* MEDIA QUERIES */
-/* maybe add a desktop size media query to fix quote conatiner from stretching out */
-/* Wait, are these media queries set up right? sholudnt be; @media screen and (max-width..) ? */
-
-
 @media (max-width:480px) {
   body{
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(115, 115, 115, 0.7)),url('img/BG.jpeg');

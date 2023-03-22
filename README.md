@@ -6,7 +6,9 @@
 
 <h3 align="left">About this project:</h3>
 <p align="left">
-This is the client-side page for my "Breaking Bad Quotes!" API. When you click the 'Get Random Quote' button, a random quote from "Breaking Bad" is pulled from the "Quotes" database and displayed along with a picture of the quoted character. 
+This is the client facing page for my "Breaking Bad Quotes!" API. Built with pure HTML, CSS, and JavaScript. This page is integrated with a backend Node/Express server API and MongoDB. <br>
+
+When you click the 'Get Random Quote' button, a random quote from "Breaking Bad" is pulled from the "Quotes" database and displayed along with a picture of the quoted character. 
 </p>
 
 <p align="left">
@@ -16,8 +18,8 @@ NOTE: The page is currently down until a I migrate the server API to a suitable 
 <h3 align="left">Quick facts about this project:</h3>
 <p align="left">
 <ul>
-<li>Frontend built with pure HTML5, CSS3, & Vanilla JS </li>
-<li>Backend Server API built with Node.js & Express.js</li> 
+<li>Frontend built with pure HTML, CSS, & Vanilla JS </li>
+<li>Backend Server API built with Node.js, Express.js, EJS, and MongoDB</li> 
 <!-- <li> The API is hosted on Heroku </li> -->
 <li>Accesses a "Quotes" MongoDB database </li>
 <!----- <li> </li> ---->

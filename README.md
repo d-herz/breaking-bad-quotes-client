@@ -12,7 +12,7 @@ When the 'Get Random Quote' button is clicked, a random quote from "Breaking Bad
 </p>
 
 <p align="left">
-NOTE: The page is currently down until a I migrate the server API to a suitable Heroku replacement :)
+NOTE: The page is currently down until the server API is migrated to a suitable Heroku replacement :)
 </p>
 
 <h3 align="left">Quick facts about this project:</h3>

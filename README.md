@@ -8,7 +8,7 @@
 <p align="left">
 This is the client facing page for my "Breaking Bad Quotes!" API. Built with pure HTML, CSS, and JavaScript. This page is integrated with a backend Node/Express server API and MongoDB. <br>
 
-When you click the 'Get Random Quote' button, a random quote from "Breaking Bad" is pulled from the "Quotes" database and displayed along with a picture of the quoted character. 
+When the 'Get Random Quote' button is clicked, a random quote from "Breaking Bad" is pulled from the "Quotes" database and displayed along with a picture of the quoted character. 
 </p>
 
 <p align="left">
